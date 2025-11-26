@@ -83,13 +83,13 @@ customer_churn/
 <summary>📊 Click to view sample EDA plots</summary>
 
 #### Churn Distribution  
-![Churn](https://user-images.githubusercontent.com/placeholder)
+![Churn](/assets/churn_distribution.png)
 
 #### Monthly Charges vs Churn  
-![Monthly](https://user-images.githubusercontent.com/placeholder)
+![Monthly](/assets/monthly_churn-vs-churn.png)
 
 #### Contract Type vs Churn  
-![Contract](https://user-images.githubusercontent.com/placeholder)
+![Contract](/assets/contract_churn.png)
 
 </details>
 
